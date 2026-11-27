@@ -1,0 +1,994 @@
+[
+  {
+    "concept_id": "face",
+    "meaning": "안면 비대칭",
+    "expression": "입이 돌아갔다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "face",
+    "meaning": "안면 비대칭",
+    "expression": "입꼬리가 처졌다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "face",
+    "meaning": "안면 비대칭",
+    "expression": "얼굴 한쪽이 내려앉았다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "face",
+    "meaning": "안면 비대칭",
+    "expression": "웃으면 입이 비뚤어진다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "face",
+    "meaning": "안면 비대칭",
+    "expression": "한쪽으로 침이 흐른다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "face",
+    "meaning": "안면 비대칭",
+    "expression": "입이 삐뚤어졌다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "arm",
+    "meaning": "편측 상지 근력저하",
+    "expression": "한쪽 팔을 못 든다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "arm",
+    "meaning": "편측 상지 근력저하",
+    "expression": "오른팔에 힘이 없다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "arm",
+    "meaning": "편측 상지 근력저하",
+    "expression": "왼팔이 축 늘어졌다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "arm",
+    "meaning": "편측 상지 근력저하",
+    "expression": "한쪽 손에 힘이 빠졌다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "arm",
+    "meaning": "편측 상지 근력저하",
+    "expression": "한쪽 팔이 말을 안 듣는다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "leg",
+    "meaning": "편측 하지 근력저하",
+    "expression": "한쪽 다리가 안 움직인다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "leg",
+    "meaning": "편측 하지 근력저하",
+    "expression": "오른다리를 질질 끈다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "leg",
+    "meaning": "편측 하지 근력저하",
+    "expression": "왼다리에 힘이 빠졌다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "leg",
+    "meaning": "편측 하지 근력저하",
+    "expression": "한쪽 다리가 풀린다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "sensory",
+    "meaning": "편측 감각 이상",
+    "expression": "몸 한쪽이 저리다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "sensory",
+    "meaning": "편측 감각 이상",
+    "expression": "한쪽 팔 감각이 없다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "sensory",
+    "meaning": "편측 감각 이상",
+    "expression": "반쪽 몸이 둔하다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "sensory",
+    "meaning": "편측 감각 이상",
+    "expression": "한쪽 다리가 남의 살 같다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "dysarthria",
+    "meaning": "구음장애",
+    "expression": "말이 어눌하다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "dysarthria",
+    "meaning": "구음장애",
+    "expression": "혀가 꼬인다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "dysarthria",
+    "meaning": "구음장애",
+    "expression": "발음이 뭉개진다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "dysarthria",
+    "meaning": "구음장애",
+    "expression": "말이 꼬인다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "dysarthria",
+    "meaning": "구음장애",
+    "expression": "말이 불분명하다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "aphasia",
+    "meaning": "언어장애 가능",
+    "expression": "말이 안 나온다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "aphasia",
+    "meaning": "언어장애 가능",
+    "expression": "말을 못 알아듣는다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "aphasia",
+    "meaning": "언어장애 가능",
+    "expression": "엉뚱한 말을 한다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "aphasia",
+    "meaning": "언어장애 가능",
+    "expression": "단어가 생각 안 난다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "aphasia",
+    "meaning": "언어장애 가능",
+    "expression": "하고 싶은 말을 못 한다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "balance",
+    "meaning": "균형 장애",
+    "expression": "몸이 한쪽으로 쏠린다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "balance",
+    "meaning": "균형 장애",
+    "expression": "중심을 못 잡는다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "balance",
+    "meaning": "균형 장애",
+    "expression": "술 취한 듯 비틀거린다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "balance",
+    "meaning": "균형 장애",
+    "expression": "똑바로 못 걷는다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "balance",
+    "meaning": "균형 장애",
+    "expression": "갑자기 서 있지 못한다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "coordination",
+    "meaning": "운동실조 가능",
+    "expression": "손이 엉뚱한 곳으로 간다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "coordination",
+    "meaning": "운동실조 가능",
+    "expression": "물건을 제대로 못 집는다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "coordination",
+    "meaning": "운동실조 가능",
+    "expression": "젓가락질이 갑자기 안 된다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "diplopia",
+    "meaning": "복시",
+    "expression": "물체가 두 개로 보인다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "diplopia",
+    "meaning": "복시",
+    "expression": "사람이 겹쳐 보인다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "diplopia",
+    "meaning": "복시",
+    "expression": "두 눈으로 보면 겹친다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "vision",
+    "meaning": "시각 이상",
+    "expression": "한쪽 눈이 안 보인다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "vision",
+    "meaning": "시각 이상",
+    "expression": "앞이 반만 보인다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "vision",
+    "meaning": "시각 이상",
+    "expression": "한쪽 눈앞이 깜깜하다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "vision",
+    "meaning": "시각 이상",
+    "expression": "시야 한쪽이 사라졌다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "gaze",
+    "meaning": "안구 편위 가능",
+    "expression": "눈이 한쪽으로 돌아갔다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "gaze",
+    "meaning": "안구 편위 가능",
+    "expression": "계속 한쪽만 쳐다본다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "dysphagia",
+    "meaning": "연하장애 가능",
+    "expression": "물을 못 삼킨다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "dysphagia",
+    "meaning": "연하장애 가능",
+    "expression": "침을 못 삼킨다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "dysphagia",
+    "meaning": "연하장애 가능",
+    "expression": "갑자기 사레가 든다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "headache",
+    "meaning": "심한 두통",
+    "expression": "머리가 터질 것 같다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "headache",
+    "meaning": "심한 두통",
+    "expression": "머리를 망치로 맞은 것 같다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "headache",
+    "meaning": "심한 두통",
+    "expression": "갑자기 극심한 두통이 생겼다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "headache",
+    "meaning": "심한 두통",
+    "expression": "살면서 처음 겪는 두통이다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "vertigo",
+    "meaning": "어지럼",
+    "expression": "세상이 빙빙 돈다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "vertigo",
+    "meaning": "어지럼",
+    "expression": "천장이 돌아간다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "vertigo",
+    "meaning": "어지럼",
+    "expression": "땅이 흔들리는 것 같다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "vertigo",
+    "meaning": "어지럼",
+    "expression": "어질어질하다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "vertigo",
+    "meaning": "어지럼",
+    "expression": "핑 돈다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "consciousness",
+    "meaning": "의식 변화",
+    "expression": "불러도 반응이 없다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "consciousness",
+    "meaning": "의식 변화",
+    "expression": "깨워도 못 일어난다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "consciousness",
+    "meaning": "의식 변화",
+    "expression": "멍하게 있다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "consciousness",
+    "meaning": "의식 변화",
+    "expression": "사람을 못 알아본다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "consciousness",
+    "meaning": "의식 변화",
+    "expression": "대답이 이상하다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "vomit",
+    "meaning": "구토",
+    "expression": "토한다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "vomit",
+    "meaning": "구토",
+    "expression": "게워낸다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "vomit",
+    "meaning": "구토",
+    "expression": "구역질이 난다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "seizure",
+    "meaning": "경련 가능",
+    "expression": "몸을 떤다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "seizure",
+    "meaning": "경련 가능",
+    "expression": "팔다리를 떤다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "seizure",
+    "meaning": "경련 가능",
+    "expression": "몸이 뻣뻣해졌다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "seizure",
+    "meaning": "경련 가능",
+    "expression": "경련을 한다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "onset",
+    "meaning": "급성 발현",
+    "expression": "갑자기 시작됐다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "onset",
+    "meaning": "급성 발현",
+    "expression": "방금 전부터 그렇다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "onset",
+    "meaning": "급성 발현",
+    "expression": "갑작스럽게 이상해졌다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "resolved",
+    "meaning": "증상 소실 단서",
+    "expression": "아까는 그랬는데 지금은 괜찮다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "resolved",
+    "meaning": "증상 소실 단서",
+    "expression": "증상이 왔다가 사라졌다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "resolved",
+    "meaning": "증상 소실 단서",
+    "expression": "마비가 풀렸다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "wake",
+    "meaning": "기상 시 발견",
+    "expression": "자고 일어나니 이상하다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "wake",
+    "meaning": "기상 시 발견",
+    "expression": "아침에 일어나 보니 그렇다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "wake",
+    "meaning": "기상 시 발견",
+    "expression": "잠에서 깬 뒤 발견했다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "chest",
+    "meaning": "흉부 불편감",
+    "expression": "가슴이 아프다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "chest",
+    "meaning": "흉부 불편감",
+    "expression": "가슴이 꽉 조인다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "chest",
+    "meaning": "흉부 불편감",
+    "expression": "가슴이 짓눌린다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "chest",
+    "meaning": "흉부 불편감",
+    "expression": "명치가 답답하다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "chest",
+    "meaning": "흉부 불편감",
+    "expression": "가슴이 먹먹하다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "dyspnea",
+    "meaning": "호흡곤란",
+    "expression": "숨이 차다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "dyspnea",
+    "meaning": "호흡곤란",
+    "expression": "숨이 안 쉬어진다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "dyspnea",
+    "meaning": "호흡곤란",
+    "expression": "숨쉬기 힘들다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "dyspnea",
+    "meaning": "호흡곤란",
+    "expression": "숨이 막힌다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "sweat",
+    "meaning": "발한",
+    "expression": "식은땀이 난다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "sweat",
+    "meaning": "발한",
+    "expression": "진땀이 난다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "sweat",
+    "meaning": "발한",
+    "expression": "찬 땀이 난다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "nausea",
+    "meaning": "오심",
+    "expression": "속이 울렁거린다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "nausea",
+    "meaning": "오심",
+    "expression": "메스껍다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "nausea",
+    "meaning": "오심",
+    "expression": "토할 것 같다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "collapse",
+    "meaning": "쓰러짐",
+    "expression": "갑자기 쓰러졌다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "collapse",
+    "meaning": "쓰러짐",
+    "expression": "주저앉았다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "collapse",
+    "meaning": "쓰러짐",
+    "expression": "픽 넘어졌다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "breathing",
+    "meaning": "비정상 호흡 가능",
+    "expression": "숨을 안 쉰다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "breathing",
+    "meaning": "비정상 호흡 가능",
+    "expression": "헐떡거리기만 한다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "breathing",
+    "meaning": "비정상 호흡 가능",
+    "expression": "숨이 멎었다",
+    "region": "공통",
+    "source_type": "문헌 참고 합성",
+    "review": "검토대기"
+  },
+  {
+    "concept_id": "face",
+    "meaning": "안면 비대칭",
+    "expression": "입이 삐뚤어졌당께",
+    "region": "전라",
+    "source_type": "방언형 합성 후보",
+    "review": "지역 화자 검토대기"
+  },
+  {
+    "concept_id": "arm",
+    "meaning": "편측 상지 근력저하",
+    "expression": "한쪽 팔에 힘이 없당께요",
+    "region": "전라",
+    "source_type": "방언형 합성 후보",
+    "review": "지역 화자 검토대기"
+  },
+  {
+    "concept_id": "balance",
+    "meaning": "균형 장애",
+    "expression": "몸이 한쪽으로 쏠린다니까라우",
+    "region": "전라",
+    "source_type": "방언형 합성 후보",
+    "review": "지역 화자 검토대기"
+  },
+  {
+    "concept_id": "chest",
+    "meaning": "흉부 불편감",
+    "expression": "가슴이 꽉 막힌 것 같당께",
+    "region": "전라",
+    "source_type": "방언형 합성 후보",
+    "review": "지역 화자 검토대기"
+  },
+  {
+    "concept_id": "dysarthria",
+    "meaning": "구음장애",
+    "expression": "말이 어눌해부렀어요",
+    "region": "전라",
+    "source_type": "방언형 합성 후보",
+    "review": "지역 화자 검토대기"
+  },
+  {
+    "concept_id": "face",
+    "meaning": "안면 비대칭",
+    "expression": "입이 와 이래 돌아갔노",
+    "region": "경상",
+    "source_type": "방언형 합성 후보",
+    "review": "지역 화자 검토대기"
+  },
+  {
+    "concept_id": "arm",
+    "meaning": "편측 상지 근력저하",
+    "expression": "한쪽 팔에 힘이 없다 카이",
+    "region": "경상",
+    "source_type": "방언형 합성 후보",
+    "review": "지역 화자 검토대기"
+  },
+  {
+    "concept_id": "dysarthria",
+    "meaning": "구음장애",
+    "expression": "말이 꼬인다 카더라",
+    "region": "경상",
+    "source_type": "방언형 합성 후보",
+    "review": "지역 화자 검토대기"
+  },
+  {
+    "concept_id": "chest",
+    "meaning": "흉부 불편감",
+    "expression": "가슴이 답답하다 카는데",
+    "region": "경상",
+    "source_type": "방언형 합성 후보",
+    "review": "지역 화자 검토대기"
+  },
+  {
+    "concept_id": "vertigo",
+    "meaning": "어지럼",
+    "expression": "머리가 핑 돈다 카네",
+    "region": "경상",
+    "source_type": "방언형 합성 후보",
+    "review": "지역 화자 검토대기"
+  },
+  {
+    "concept_id": "face",
+    "meaning": "안면 비대칭",
+    "expression": "입이 돌아갔어유",
+    "region": "충청",
+    "source_type": "방언형 합성 후보",
+    "review": "지역 화자 검토대기"
+  },
+  {
+    "concept_id": "arm",
+    "meaning": "편측 상지 근력저하",
+    "expression": "한쪽 팔에 힘이 없어유",
+    "region": "충청",
+    "source_type": "방언형 합성 후보",
+    "review": "지역 화자 검토대기"
+  },
+  {
+    "concept_id": "dysarthria",
+    "meaning": "구음장애",
+    "expression": "말이 꼬여유",
+    "region": "충청",
+    "source_type": "방언형 합성 후보",
+    "review": "지역 화자 검토대기"
+  },
+  {
+    "concept_id": "chest",
+    "meaning": "흉부 불편감",
+    "expression": "가슴이 꽉 막힌 것 같아유",
+    "region": "충청",
+    "source_type": "방언형 합성 후보",
+    "review": "지역 화자 검토대기"
+  },
+  {
+    "concept_id": "balance",
+    "meaning": "균형 장애",
+    "expression": "중심을 못 잡아유",
+    "region": "충청",
+    "source_type": "방언형 합성 후보",
+    "review": "지역 화자 검토대기"
+  },
+  {
+    "concept_id": "chest",
+    "meaning": "흉부 불편감",
+    "expression": "가슴이 답답하우다",
+    "region": "제주",
+    "source_type": "방언형 합성 후보",
+    "review": "지역 화자 검토대기"
+  },
+  {
+    "concept_id": "arm",
+    "meaning": "편측 상지 근력저하",
+    "expression": "한쪽 팔에 힘이 없수다",
+    "region": "제주",
+    "source_type": "방언형 합성 후보",
+    "review": "지역 화자 검토대기"
+  },
+  {
+    "concept_id": "vertigo",
+    "meaning": "어지럼",
+    "expression": "머리가 어지럽수다",
+    "region": "제주",
+    "source_type": "방언형 합성 후보",
+    "review": "지역 화자 검토대기"
+  },
+  {
+    "concept_id": "arm",
+    "meaning": "편측 상지 근력저하",
+    "expression": "한쪽 팔에 힘이 없드래요",
+    "region": "강원",
+    "source_type": "방언형 합성 후보",
+    "review": "지역 화자 검토대기"
+  },
+  {
+    "concept_id": "balance",
+    "meaning": "균형 장애",
+    "expression": "몸이 자꾸 쏠린대요",
+    "region": "강원",
+    "source_type": "방언형 합성 후보",
+    "review": "지역 화자 검토대기"
+  },
+  {
+    "concept_id": "dysarthria",
+    "meaning": "구음장애",
+    "expression": "말이 꼬인다드래요",
+    "region": "강원",
+    "source_type": "방언형 합성 후보",
+    "review": "지역 화자 검토대기"
+  },
+  {
+    "concept_id": "arm",
+    "meaning": "편측 상지 근력저하",
+    "expression": "한쪽 팔이 힘이 안 들어가요",
+    "region": "수도권",
+    "source_type": "방언형 합성 후보",
+    "review": "지역 화자 검토대기"
+  },
+  {
+    "concept_id": "aphasia",
+    "meaning": "언어장애 가능",
+    "expression": "말이 입 밖으로 안 나와요",
+    "region": "수도권",
+    "source_type": "방언형 합성 후보",
+    "review": "지역 화자 검토대기"
+  },
+  {
+    "concept_id": "chest",
+    "meaning": "흉부 불편감",
+    "expression": "가슴이 꽉 막힌 느낌이래요",
+    "region": "수도권",
+    "source_type": "방언형 합성 후보",
+    "review": "지역 화자 검토대기"
+  }
+]

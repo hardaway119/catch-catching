@@ -1,0 +1,884 @@
+[
+  {
+    "category": "흉통",
+    "pattern": "가슴통증",
+    "count": 1079,
+    "status": "관찰"
+  },
+  {
+    "category": "흉통",
+    "pattern": "가슴통증호소",
+    "count": 205,
+    "status": "관찰"
+  },
+  {
+    "category": "흉통",
+    "pattern": "흉통",
+    "count": 370,
+    "status": "관찰"
+  },
+  {
+    "category": "흉통",
+    "pattern": "가슴이아프",
+    "count": 250,
+    "status": "관찰"
+  },
+  {
+    "category": "흉통",
+    "pattern": "가슴아프",
+    "count": 17,
+    "status": "관찰"
+  },
+  {
+    "category": "흉통",
+    "pattern": "가슴이아파",
+    "count": 30,
+    "status": "관찰"
+  },
+  {
+    "category": "흉통",
+    "pattern": "가슴아파",
+    "count": 6,
+    "status": "관찰"
+  },
+  {
+    "category": "흉통",
+    "pattern": "가슴통증있",
+    "count": 24,
+    "status": "관찰"
+  },
+  {
+    "category": "흉통",
+    "pattern": "흉부통증",
+    "count": 1,
+    "status": "관찰"
+  },
+  {
+    "category": "흉통",
+    "pattern": "가슴쪽통증",
+    "count": 4,
+    "status": "관찰"
+  },
+  {
+    "category": "흉부압박감",
+    "pattern": "가슴이답답",
+    "count": 303,
+    "status": "관찰"
+  },
+  {
+    "category": "흉부압박감",
+    "pattern": "가슴답답",
+    "count": 174,
+    "status": "관찰"
+  },
+  {
+    "category": "흉부압박감",
+    "pattern": "흉부답답",
+    "count": 4,
+    "status": "관찰"
+  },
+  {
+    "category": "흉부압박감",
+    "pattern": "가슴이조",
+    "count": 30,
+    "status": "관찰"
+  },
+  {
+    "category": "흉부압박감",
+    "pattern": "가슴조",
+    "count": 7,
+    "status": "관찰"
+  },
+  {
+    "category": "흉부압박감",
+    "pattern": "가슴이쥐어",
+    "count": 10,
+    "status": "관찰"
+  },
+  {
+    "category": "흉부압박감",
+    "pattern": "가슴을쥐어",
+    "count": 4,
+    "status": "관찰"
+  },
+  {
+    "category": "흉부압박감",
+    "pattern": "가슴이눌",
+    "count": 0,
+    "status": "확장 후보"
+  },
+  {
+    "category": "흉부압박감",
+    "pattern": "가슴이뻐근",
+    "count": 4,
+    "status": "관찰"
+  },
+  {
+    "category": "흉부압박감",
+    "pattern": "가슴이먹먹",
+    "count": 1,
+    "status": "관찰"
+  },
+  {
+    "category": "흉부압박감",
+    "pattern": "가슴이꽉",
+    "count": 0,
+    "status": "확장 후보"
+  },
+  {
+    "category": "호흡곤란",
+    "pattern": "호흡곤란",
+    "count": 986,
+    "status": "관찰"
+  },
+  {
+    "category": "호흡곤란",
+    "pattern": "숨이차",
+    "count": 56,
+    "status": "관찰"
+  },
+  {
+    "category": "호흡곤란",
+    "pattern": "숨차",
+    "count": 5,
+    "status": "관찰"
+  },
+  {
+    "category": "호흡곤란",
+    "pattern": "숨이안쉬",
+    "count": 36,
+    "status": "관찰"
+  },
+  {
+    "category": "호흡곤란",
+    "pattern": "숨을못쉬",
+    "count": 73,
+    "status": "관찰"
+  },
+  {
+    "category": "호흡곤란",
+    "pattern": "숨쉬기힘",
+    "count": 71,
+    "status": "관찰"
+  },
+  {
+    "category": "호흡곤란",
+    "pattern": "호흡이힘",
+    "count": 28,
+    "status": "관찰"
+  },
+  {
+    "category": "호흡곤란",
+    "pattern": "숨쉬기어렵",
+    "count": 3,
+    "status": "관찰"
+  },
+  {
+    "category": "호흡곤란",
+    "pattern": "숨이막",
+    "count": 3,
+    "status": "관찰"
+  },
+  {
+    "category": "호흡곤란",
+    "pattern": "숨막",
+    "count": 0,
+    "status": "확장 후보"
+  },
+  {
+    "category": "호흡곤란",
+    "pattern": "숨쉬기가힘",
+    "count": 36,
+    "status": "관찰"
+  },
+  {
+    "category": "호흡곤란",
+    "pattern": "호흡힘",
+    "count": 20,
+    "status": "관찰"
+  },
+  {
+    "category": "호흡곤란",
+    "pattern": "숨이잘안",
+    "count": 20,
+    "status": "관찰"
+  },
+  {
+    "category": "호흡곤란",
+    "pattern": "숨못쉬",
+    "count": 1,
+    "status": "관찰"
+  },
+  {
+    "category": "발한",
+    "pattern": "식은땀",
+    "count": 317,
+    "status": "관찰"
+  },
+  {
+    "category": "발한",
+    "pattern": "진땀",
+    "count": 1,
+    "status": "관찰"
+  },
+  {
+    "category": "발한",
+    "pattern": "땀이많",
+    "count": 10,
+    "status": "관찰"
+  },
+  {
+    "category": "발한",
+    "pattern": "땀을많",
+    "count": 12,
+    "status": "관찰"
+  },
+  {
+    "category": "발한",
+    "pattern": "땀이난",
+    "count": 22,
+    "status": "관찰"
+  },
+  {
+    "category": "발한",
+    "pattern": "땀을흘",
+    "count": 28,
+    "status": "관찰"
+  },
+  {
+    "category": "오심",
+    "pattern": "오심",
+    "count": 26,
+    "status": "관찰"
+  },
+  {
+    "category": "오심",
+    "pattern": "메스껍",
+    "count": 5,
+    "status": "관찰"
+  },
+  {
+    "category": "오심",
+    "pattern": "메슥",
+    "count": 0,
+    "status": "확장 후보"
+  },
+  {
+    "category": "오심",
+    "pattern": "미식",
+    "count": 4,
+    "status": "관찰"
+  },
+  {
+    "category": "오심",
+    "pattern": "울렁",
+    "count": 8,
+    "status": "관찰"
+  },
+  {
+    "category": "오심",
+    "pattern": "토할것",
+    "count": 1,
+    "status": "관찰"
+  },
+  {
+    "category": "오심",
+    "pattern": "구역",
+    "count": 5,
+    "status": "관찰"
+  },
+  {
+    "category": "오심",
+    "pattern": "속이니글",
+    "count": 0,
+    "status": "확장 후보"
+  },
+  {
+    "category": "구토",
+    "pattern": "구토",
+    "count": 118,
+    "status": "관찰"
+  },
+  {
+    "category": "구토",
+    "pattern": "토했",
+    "count": 4,
+    "status": "관찰"
+  },
+  {
+    "category": "구토",
+    "pattern": "토하",
+    "count": 24,
+    "status": "관찰"
+  },
+  {
+    "category": "구토",
+    "pattern": "토함",
+    "count": 3,
+    "status": "관찰"
+  },
+  {
+    "category": "구토",
+    "pattern": "토를",
+    "count": 8,
+    "status": "관찰"
+  },
+  {
+    "category": "어지럼",
+    "pattern": "어지럽",
+    "count": 140,
+    "status": "관찰"
+  },
+  {
+    "category": "어지럼",
+    "pattern": "어지러",
+    "count": 69,
+    "status": "관찰"
+  },
+  {
+    "category": "어지럼",
+    "pattern": "어지럼",
+    "count": 107,
+    "status": "관찰"
+  },
+  {
+    "category": "어지럼",
+    "pattern": "현기증",
+    "count": 7,
+    "status": "관찰"
+  },
+  {
+    "category": "어지럼",
+    "pattern": "핑돌",
+    "count": 1,
+    "status": "관찰"
+  },
+  {
+    "category": "어지럼",
+    "pattern": "빙빙",
+    "count": 1,
+    "status": "관찰"
+  },
+  {
+    "category": "실신·쓰러짐",
+    "pattern": "실신",
+    "count": 24,
+    "status": "관찰"
+  },
+  {
+    "category": "실신·쓰러짐",
+    "pattern": "쓰러",
+    "count": 451,
+    "status": "관찰"
+  },
+  {
+    "category": "실신·쓰러짐",
+    "pattern": "기절",
+    "count": 4,
+    "status": "관찰"
+  },
+  {
+    "category": "의식 이상",
+    "pattern": "의식저하",
+    "count": 27,
+    "status": "관찰"
+  },
+  {
+    "category": "의식 이상",
+    "pattern": "의식없",
+    "count": 82,
+    "status": "관찰"
+  },
+  {
+    "category": "의식 이상",
+    "pattern": "의식이없",
+    "count": 18,
+    "status": "관찰"
+  },
+  {
+    "category": "의식 이상",
+    "pattern": "의식혼미",
+    "count": 15,
+    "status": "관찰"
+  },
+  {
+    "category": "의식 이상",
+    "pattern": "반응없",
+    "count": 14,
+    "status": "관찰"
+  },
+  {
+    "category": "의식 이상",
+    "pattern": "반응이없",
+    "count": 2,
+    "status": "관찰"
+  },
+  {
+    "category": "심계항진",
+    "pattern": "두근",
+    "count": 67,
+    "status": "관찰"
+  },
+  {
+    "category": "심계항진",
+    "pattern": "심계항진",
+    "count": 28,
+    "status": "관찰"
+  },
+  {
+    "category": "심계항진",
+    "pattern": "심장이빨리",
+    "count": 52,
+    "status": "관찰"
+  },
+  {
+    "category": "심계항진",
+    "pattern": "심장이뛴",
+    "count": 5,
+    "status": "관찰"
+  },
+  {
+    "category": "심계항진",
+    "pattern": "심장두근",
+    "count": 4,
+    "status": "관찰"
+  },
+  {
+    "category": "심계항진",
+    "pattern": "맥박이빠",
+    "count": 1,
+    "status": "관찰"
+  },
+  {
+    "category": "상복부 불편",
+    "pattern": "명치",
+    "count": 74,
+    "status": "관찰"
+  },
+  {
+    "category": "상복부 불편",
+    "pattern": "체한",
+    "count": 26,
+    "status": "관찰"
+  },
+  {
+    "category": "상복부 불편",
+    "pattern": "체했",
+    "count": 2,
+    "status": "관찰"
+  },
+  {
+    "category": "상복부 불편",
+    "pattern": "소화불량",
+    "count": 3,
+    "status": "관찰"
+  },
+  {
+    "category": "상복부 불편",
+    "pattern": "속이답답",
+    "count": 10,
+    "status": "관찰"
+  },
+  {
+    "category": "상복부 불편",
+    "pattern": "속답답",
+    "count": 1,
+    "status": "관찰"
+  },
+  {
+    "category": "상복부 불편",
+    "pattern": "상복부",
+    "count": 2,
+    "status": "관찰"
+  },
+  {
+    "category": "작열감",
+    "pattern": "타는듯",
+    "count": 0,
+    "status": "확장 후보"
+  },
+  {
+    "category": "작열감",
+    "pattern": "화끈",
+    "count": 1,
+    "status": "관찰"
+  },
+  {
+    "category": "작열감",
+    "pattern": "불이오른",
+    "count": 1,
+    "status": "관찰"
+  },
+  {
+    "category": "작열감",
+    "pattern": "불타",
+    "count": 2,
+    "status": "관찰"
+  },
+  {
+    "category": "작열감",
+    "pattern": "쓰리",
+    "count": 6,
+    "status": "관찰"
+  },
+  {
+    "category": "작열감",
+    "pattern": "작열",
+    "count": 0,
+    "status": "확장 후보"
+  },
+  {
+    "category": "통증 양상",
+    "pattern": "쥐어짜",
+    "count": 52,
+    "status": "관찰"
+  },
+  {
+    "category": "통증 양상",
+    "pattern": "쥐어짠",
+    "count": 3,
+    "status": "관찰"
+  },
+  {
+    "category": "통증 양상",
+    "pattern": "짓누르",
+    "count": 2,
+    "status": "관찰"
+  },
+  {
+    "category": "통증 양상",
+    "pattern": "찌르",
+    "count": 11,
+    "status": "관찰"
+  },
+  {
+    "category": "통증 양상",
+    "pattern": "찌릿",
+    "count": 5,
+    "status": "관찰"
+  },
+  {
+    "category": "통증 양상",
+    "pattern": "콕콕",
+    "count": 5,
+    "status": "관찰"
+  },
+  {
+    "category": "통증 양상",
+    "pattern": "칼로",
+    "count": 1,
+    "status": "관찰"
+  },
+  {
+    "category": "통증 양상",
+    "pattern": "찢어",
+    "count": 24,
+    "status": "관찰"
+  },
+  {
+    "category": "통증 양상",
+    "pattern": "뻐근",
+    "count": 6,
+    "status": "관찰"
+  },
+  {
+    "category": "방사 가능 위치",
+    "pattern": "왼팔",
+    "count": 3,
+    "status": "관찰"
+  },
+  {
+    "category": "방사 가능 위치",
+    "pattern": "좌측팔",
+    "count": 1,
+    "status": "관찰"
+  },
+  {
+    "category": "방사 가능 위치",
+    "pattern": "어깨",
+    "count": 43,
+    "status": "관찰"
+  },
+  {
+    "category": "방사 가능 위치",
+    "pattern": "턱",
+    "count": 4,
+    "status": "관찰"
+  },
+  {
+    "category": "방사 가능 위치",
+    "pattern": "등쪽",
+    "count": 18,
+    "status": "관찰"
+  },
+  {
+    "category": "방사 가능 위치",
+    "pattern": "등통증",
+    "count": 18,
+    "status": "관찰"
+  },
+  {
+    "category": "방사 가능 위치",
+    "pattern": "목뒤",
+    "count": 1,
+    "status": "관찰"
+  },
+  {
+    "category": "방사 가능 위치",
+    "pattern": "방사통",
+    "count": 94,
+    "status": "관찰"
+  },
+  {
+    "category": "급성 발현",
+    "pattern": "갑자기",
+    "count": 430,
+    "status": "관찰"
+  },
+  {
+    "category": "급성 발현",
+    "pattern": "급작",
+    "count": 0,
+    "status": "확장 후보"
+  },
+  {
+    "category": "급성 발현",
+    "pattern": "갑작",
+    "count": 2,
+    "status": "관찰"
+  },
+  {
+    "category": "급성 발현",
+    "pattern": "방금",
+    "count": 65,
+    "status": "관찰"
+  },
+  {
+    "category": "지속·반복",
+    "pattern": "지속",
+    "count": 53,
+    "status": "관찰"
+  },
+  {
+    "category": "지속·반복",
+    "pattern": "계속",
+    "count": 62,
+    "status": "관찰"
+  },
+  {
+    "category": "지속·반복",
+    "pattern": "간헐",
+    "count": 7,
+    "status": "관찰"
+  },
+  {
+    "category": "지속·반복",
+    "pattern": "반복",
+    "count": 12,
+    "status": "관찰"
+  },
+  {
+    "category": "지속·반복",
+    "pattern": "왔다갔다",
+    "count": 5,
+    "status": "관찰"
+  },
+  {
+    "category": "심혈관 병력 단서",
+    "pattern": "심근경색",
+    "count": 324,
+    "status": "관찰"
+  },
+  {
+    "category": "심혈관 병력 단서",
+    "pattern": "협심증",
+    "count": 379,
+    "status": "관찰"
+  },
+  {
+    "category": "심혈관 병력 단서",
+    "pattern": "스텐트",
+    "count": 117,
+    "status": "관찰"
+  },
+  {
+    "category": "심혈관 병력 단서",
+    "pattern": "심장질환",
+    "count": 257,
+    "status": "관찰"
+  },
+  {
+    "category": "심혈관 병력 단서",
+    "pattern": "심장약",
+    "count": 71,
+    "status": "관찰"
+  },
+  {
+    "category": "심혈관 병력 단서",
+    "pattern": "부정맥",
+    "count": 184,
+    "status": "관찰"
+  },
+  {
+    "category": "심혈관 병력 단서",
+    "pattern": "심부전",
+    "count": 40,
+    "status": "관찰"
+  },
+  {
+    "category": "위험인자 단서",
+    "pattern": "고혈압",
+    "count": 223,
+    "status": "관찰"
+  },
+  {
+    "category": "위험인자 단서",
+    "pattern": "당뇨",
+    "count": 187,
+    "status": "관찰"
+  },
+  {
+    "category": "위험인자 단서",
+    "pattern": "고지혈증",
+    "count": 52,
+    "status": "관찰"
+  },
+  {
+    "category": "위험인자 단서",
+    "pattern": "흡연",
+    "count": 0,
+    "status": "확장 후보"
+  },
+  {
+    "category": "활동·자세 단서",
+    "pattern": "운동",
+    "count": 26,
+    "status": "관찰"
+  },
+  {
+    "category": "활동·자세 단서",
+    "pattern": "걷다가",
+    "count": 0,
+    "status": "확장 후보"
+  },
+  {
+    "category": "활동·자세 단서",
+    "pattern": "걸어",
+    "count": 9,
+    "status": "관찰"
+  },
+  {
+    "category": "활동·자세 단서",
+    "pattern": "계단",
+    "count": 3,
+    "status": "관찰"
+  },
+  {
+    "category": "활동·자세 단서",
+    "pattern": "누우면",
+    "count": 0,
+    "status": "확장 후보"
+  },
+  {
+    "category": "활동·자세 단서",
+    "pattern": "누워",
+    "count": 49,
+    "status": "관찰"
+  },
+  {
+    "category": "활동·자세 단서",
+    "pattern": "움직",
+    "count": 56,
+    "status": "관찰"
+  },
+  {
+    "category": "활동·자세 단서",
+    "pattern": "숨쉴때",
+    "count": 3,
+    "status": "관찰"
+  },
+  {
+    "category": "활동·자세 단서",
+    "pattern": "심호흡",
+    "count": 11,
+    "status": "관찰"
+  },
+  {
+    "category": "활동·자세 단서",
+    "pattern": "식후",
+    "count": 1,
+    "status": "관찰"
+  },
+  {
+    "category": "활동·자세 단서",
+    "pattern": "식사",
+    "count": 61,
+    "status": "관찰"
+  },
+  {
+    "category": "부정·불확실 단서",
+    "pattern": "없음",
+    "count": 469,
+    "status": "관찰"
+  },
+  {
+    "category": "부정·불확실 단서",
+    "pattern": "없다고",
+    "count": 67,
+    "status": "관찰"
+  },
+  {
+    "category": "부정·불확실 단서",
+    "pattern": "없다",
+    "count": 236,
+    "status": "관찰"
+  },
+  {
+    "category": "부정·불확실 단서",
+    "pattern": "않음",
+    "count": 60,
+    "status": "관찰"
+  },
+  {
+    "category": "부정·불확실 단서",
+    "pattern": "않다",
+    "count": 20,
+    "status": "관찰"
+  },
+  {
+    "category": "부정·불확실 단서",
+    "pattern": "않고",
+    "count": 2,
+    "status": "관찰"
+  },
+  {
+    "category": "부정·불확실 단서",
+    "pattern": "아니",
+    "count": 17,
+    "status": "관찰"
+  },
+  {
+    "category": "부정·불확실 단서",
+    "pattern": "모르",
+    "count": 30,
+    "status": "관찰"
+  },
+  {
+    "category": "부정·불확실 단서",
+    "pattern": "같다고",
+    "count": 40,
+    "status": "관찰"
+  },
+  {
+    "category": "부정·불확실 단서",
+    "pattern": "것같",
+    "count": 123,
+    "status": "관찰"
+  },
+  {
+    "category": "부정·불확실 단서",
+    "pattern": "이상없",
+    "count": 11,
+    "status": "관찰"
+  }
+]
